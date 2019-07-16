@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage[margin=0.5in]{geometry}
+\title{Latex for Use Cases and UML}
+\author{peter }
+\date{July 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Creating UML in Latex - A Tutorial Introduction}
+ \begin{enumerate}
+     \item Obtain the Starter Latex for UML here:
+     \url{http://TheProf.ca/StarterLatexUML}
+     \item Study the Latex Code 
+     \item Read about the Latex UML Template here: \url{https://www.overleaf.com/latex/templates/uml-diagrams-with-tikz-uml/ftfzzpmwnjqw}
+     \item Read the Documentation for the Latex UML Package: \url{http://TheProf.ca/LatexUMLPackageDocumentation}
+     \item Modify the provided starter code to make it look like your UML Diagram
+ \end{enumerate}
+
+\end{document}
